@@ -1,1 +1,10 @@
 Go ahead and fork this repository before cloning to your local computer! 😊
+
+
+Command learnt in this chapter (2) :
+
+git clone <repo-url>
+git pull origin main
+git branch new-branch-name
+git switch new-branch-name
+git merge main
